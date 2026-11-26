@@ -1,0 +1,6 @@
+{
+  "name": "XK Music",
+  "description": "Ứng dụng nghe nhạc trực tuyến XK Music với kho bài hát miễn phí, cửa hàng bản quyền 320kbps/WAV, danh sách phát cá nhân và tài khoản thành viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
